@@ -342,10 +342,12 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #00FFFF;
+  text-shadow: 3px 3px #FF7F50;
 }
 
 #hero h2 {
   color: #7FFFD4;
+  text-shadow: 2px 2px #ff0000;
   margin-bottom: 10px;
   font-size: 24px;
   font-weight: 300;
